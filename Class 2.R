@@ -217,4 +217,4 @@ my_fun(time = 10, scenarios = 0.01)
 
 my_fun(time = 10, scenarios = seq(0.01, 0.05, 0.01))
 
-my_fun(time = 10, scenarios = seq(0.01, 0.10, 0.01))
+
